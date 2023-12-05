@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kitchenfoods/static/css/main.aedb585b.css",
-    "main.js": "/kitchenfoods/static/js/main.2b8e736c.js",
+    "main.js": "/kitchenfoods/static/js/main.f638fccb.js",
     "static/media/logo.jpg": "/kitchenfoods/static/media/logo.75b16a75c941c383941d.jpg",
     "index.html": "/kitchenfoods/index.html",
     "main.aedb585b.css.map": "/kitchenfoods/static/css/main.aedb585b.css.map",
-    "main.2b8e736c.js.map": "/kitchenfoods/static/js/main.2b8e736c.js.map"
+    "main.f638fccb.js.map": "/kitchenfoods/static/js/main.f638fccb.js.map"
   },
   "entrypoints": [
     "static/css/main.aedb585b.css",
-    "static/js/main.2b8e736c.js"
+    "static/js/main.f638fccb.js"
   ]
 }
