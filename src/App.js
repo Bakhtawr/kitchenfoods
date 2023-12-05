@@ -5,6 +5,7 @@ import Pages from './pages/Pages';
 import { BrowserRouter } from 'react-router-dom';
 import logo from  './pages/logo.jpg'
 import Footer from './pages/Footer';
+import Home from './pages/Home';
 
 function App() {
   return (
@@ -16,7 +17,6 @@ function App() {
       <Search />
       <Category />
       <Pages />
-     
       </BrowserRouter>
     </div>
   );
