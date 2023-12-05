@@ -8,7 +8,6 @@ import Recipe from './Recipe'
 const Pages = () => {
   return (
     <div>
-       <Home />
     <Routes>
       <Route path='/' element={<Home />}/>
       <Route path='/cuisine/:type' element={<Cuisine />}/>
